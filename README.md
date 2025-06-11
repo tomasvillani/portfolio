@@ -14,22 +14,6 @@ El proyecto está dividido por componentes (`About`, `Projects`, `Footer`, etc.)
 
 ## 📸 Proyecto Destacado
 
-**Gym Tinajo**: Plataforma web de re# Portfolio de Tomás
-
-Este es mi portfolio personal como desarrollador web. Aquí muestro información sobre mí, mis habilidades técnicas y un proyecto destacado: **Gym Tinajo**.
-
-## 🚀 Tecnologías principales
-
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** PHP, Laravel, MySQL
-- **Otros:** Bootstrap, jQuery
-
-## 📂 Estructura
-
-El proyecto está dividido por componentes (`About`, `Projects`, `Footer`, etc.), usando React con estilos personalizados para asegurar un diseño responsive y limpio.
-
-## 📸 Proyecto Destacado
-
 **Gym Tinajo**: Plataforma web de reservas para un gimnasio, desarrollada con Laravel, MySQL y JavaScript (incluyendo un chatbot).
 
 ➡️ [Ver en línea](https://gymtinajo.up.railway.app/)  
