@@ -1,0 +1,32 @@
+#about {
+  text-align: center;
+  padding: 2rem;
+}
+
+.tech-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 1rem 0 2rem 0;
+}
+
+.tech-grid div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80px;
+}
+
+.tech-grid img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+}
+
+.tech-grid span {
+  font-size: 0.9rem;
+  color: #333;
+  font-weight: bolder;
+}
