@@ -36,19 +36,6 @@ El proyecto está dividido por componentes (`About`, `Projects`, `Footer`, etc.)
 📹 [Ver vídeo en YouTube](https://www.youtube.com/watch?v=3fXf20tTvhI)  
 💻 [Ver en GitHub](https://github.com/tomasvillani/Proyecto-final-DAW)
 
-## 📫 Contacto
-
-Si quieres contactar conmigo, puedes encontrarme en el footer del sitio o por email.
-
----
-
-> Este portfolio está en constante mejora a medida que crezco como desarrollador.
-servas para un gimnasio, desarrollada con Laravel, MySQL y JavaScript (incluyendo un chatbot).
-
-➡️ [Ver en producción](https://gymtinajo.up.railway.app/)  
-📹 [Ver vídeo en YouTube](https://www.youtube.com/watch?v=3fXf20tTvhI)  
-💻 [Ver en GitHub](https://github.com/tomasvillani/Proyecto-final-DAW)
-
 ## 🌐 Puedes ver este portfolio en línea
 
 👉 [Haz clic aquí para verlo en producción](https://portfolio-chi-nine-14.vercel.app/)
