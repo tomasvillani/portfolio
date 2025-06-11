@@ -42,7 +42,7 @@ El proyecto está dividido por componentes (`About`, `Projects`, `Footer`, etc.)
 
 ## 📫 Contacto
 
-Si quieres contactar conmigo, puedes encontrarme en el footer del sitio o por email.
+Si quieres contactar conmigo, puedes encontrarme en el footer del sitio.
 
 ---
 
