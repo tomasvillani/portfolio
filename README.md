@@ -16,7 +16,7 @@ El proyecto está dividido por componentes (`About`, `Projects`, `Footer`, etc.)
 
 **Gym Tinajo**: Plataforma web de reservas para un gimnasio, desarrollada con Laravel, MySQL y JavaScript (incluyendo un chatbot).
 
-➡️ [Ver en línea](https://gymtinajo.up.railway.app/)  
+➡️ [Ver en producción](https://gymtinajo.up.railway.app/)  
 📹 [Ver vídeo en YouTube](https://www.youtube.com/watch?v=3fXf20tTvhI)  
 💻 [Ver en GitHub](https://github.com/tomasvillani/Proyecto-final-DAW)
 
