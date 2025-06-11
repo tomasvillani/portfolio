@@ -1,4 +1,4 @@
-# Portafolio de Tomás
+# Portfolio de Tomás
 
 Este es mi portfolio personal como desarrollador web. Aquí muestro información sobre mí, mis habilidades técnicas y un proyecto destacado: **Gym Tinajo**.
 
