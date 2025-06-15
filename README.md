@@ -1,55 +1,34 @@
-# React + TypeScript + Vite
+# Portfolio de Tomás
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es mi portfolio personal como desarrollador web. Aquí muestro información sobre mí, mis habilidades técnicas y un proyecto destacado: **Gym Tinajo**.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Expanding the ESLint configuration
+## 📂 Estructura
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+El proyecto está dividido por componentes (`About`, `Projects`, `Footer`, etc.), usando React con estilos personalizados para asegurar un diseño responsive y limpio.
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## 📸 Proyecto Destacado
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+**Gym Tinajo**: Plataforma web de reservas para un gimnasio, desarrollada con Laravel, MySQL y JavaScript (incluyendo un chatbot).
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+➡️ [Ver en producción](https://gymtinajo.up.railway.app/)  
+📹 [Ver vídeo en YouTube](https://www.youtube.com/watch?v=3fXf20tTvhI)  
+💻 [Ver en GitHub](https://github.com/tomasvillani/Proyecto-final-DAW)
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
-"# portfolio" 
+## 🌐 Puedes ver este portfolio en línea
+
+👉 [Haz clic aquí para verlo online](https://portfolio-chi-nine-14.vercel.app/)
+
+## 📫 Contacto
+
+Si quieres contactar conmigo, puedes encontrarme en el footer del sitio.
+
+---
+
+> Este portfolio está en constante mejora a medida que crezco como desarrollador.
