@@ -11,22 +11,14 @@ import nodeLogo from '../img/nodejs.png';
 import pythonLogo from '../img/python.png';
 import laravelLogo from '../img/laravel.png';
 import mysqlLogo from '../img/mysql.png';
+import type { Translations } from '../utils/translations';
 
-export function About() {
+export function About({t}:{t: Translations}) {
   return (
     <section id="about">
-      <h2>Sobre mí</h2>
-      <p>
-        Soy Tomás, desarrollador web en formación con un fuerte enfoque 
-        en el desarrollo backend, aunque también con conocimientos sólidos 
-        en frontend. Principalmente trabajo con PHP, JavaScript, Laravel y MySQL, 
-        tecnologías con las que me siento más cómodo y en las que tengo mayor dominio.
-      </p>
-      <p>
-        Actualmente no cuento con experiencia laboral, pero busco activamente 
-        oportunidades para seguir creciendo como desarrollador, aprendiendo nuevas 
-        herramientas y enfrentándome a desafíos reales del desarrollo web.
-      </p>
+      <h2>{t.about}</h2>
+      <p>{t.introduction}</p>
+      <p>{t.experience}</p>
 
       <h3>Frontend</h3>
       <div className="tech-grid">
