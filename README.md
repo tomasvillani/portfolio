@@ -24,6 +24,7 @@ El proyecto está dividido por componentes (`About`, `Projects`, `Footer`, etc.)
 ## 🌐 Puedes ver este portfolio en línea
 
 👉 [Haz clic aquí para verlo online](https://portfolio-chi-nine-14.vercel.app/)
+Disponible en **español** e **inglés**.
 
 ## 📫 Contacto
 
