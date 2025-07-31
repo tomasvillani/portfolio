@@ -1,6 +1,7 @@
 import './styles/Projects.css';
 import gymtinajoImage from '../img/gymtinajo.png';
 import type { Translations } from '../utils/translations';
+import { ProjectCard } from './ProjectCard';
 
 export function Projects({t}: {t: Translations}) {
   return (
@@ -12,16 +13,16 @@ export function Projects({t}: {t: Translations}) {
           <img src={gymtinajoImage} alt="Captura de GymTinajo" />
         </div>
 
-        <div className="project-info">
-          <h3>Gym Tinajo</h3>
-          <p>{t.gymTinajoDescription}</p>
-          <p><strong>{t.technologies}:</strong> HTML5, CSS3, Laravel, PHP, MySQL, JavaScript</p>
-          <div className="project-links">
-            <a href="https://github.com/tomasvillani/Proyecto-final-DAW" target="_blank">{t.gymTinajoGithub}</a>
-            <a href="https://www.youtube.com/watch?v=3fXf20tTvhI" target="_blank">{t.gymTinajoYoutube}</a>
-            <a href="https://gymtinajo.up.railway.app/" target="_blank">{t.gymTinajoOnline}</a>
-          </div>
-        </div>
+        <ProjectCard
+          t={t}
+          title="Gym Tinajo"
+          description={t.gymTinajoDescription}
+          technologies={["HTML5", "CSS3", "Laravel", "PHP", "MySQL", "JavaScript"]}
+          githubUrl="https://github.com/tomasvillani/Proyecto-final-DAW"
+          youtubeUrl="https://www.youtube.com/watch?v=3fXf20tTvhI"
+          liveUrl="https://gymtinajo.up.railway.app/"
+        />
+
       </div>
     </section>
   );
