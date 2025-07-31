@@ -17,7 +17,7 @@ export function Projects({t}: {t: Translations}) {
         imageAlt={t.gymTinajoImage}
         githubUrl="https://github.com/tomasvillani/Proyecto-final-DAW"
         youtubeUrl="https://www.youtube.com/watch?v=3fXf20tTvhI"
-        liveUrl="https://gymtinajo.up.railway.app/"
+        liveUrl="https://gymtinajo.alwaysdata.net/"
       />
     </section>
   );
