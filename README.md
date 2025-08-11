@@ -13,7 +13,7 @@ Este es mi portfolio personal como desarrollador web. Aquí muestro información
 
 El proyecto está dividido por componentes (`About`, `Projects`, `Footer`, etc.), usando React con estilos personalizados para asegurar un diseño responsive y limpio.
 
-## 📸 Proyectos Destacados
+## 📸 Proyectos Desarrollados
 
 **Gym Tinajo**: Plataforma web de reservas para un gimnasio, desarrollada con Laravel, MySQL y JavaScript (incluyendo un chatbot).
 
