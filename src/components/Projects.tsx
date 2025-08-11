@@ -1,6 +1,7 @@
 import './styles/Projects.css';
 import gymTinajoImage from '../img/gymtinajo.png';
 import lanzaroTCGImage from '../img/lanzarotcg.png';
+import lanzahostelImage from '../img/lanzahostel.png';
 import type { Translations } from '../utils/translations';
 import { ProjectCard } from './ProjectCard';
 
@@ -31,6 +32,18 @@ export function Projects({t}: {t: Translations}) {
         githubUrl="https://github.com/tomasvillani/lanzarotcg"
         youtubeUrl="https://youtu.be/0v9KCnHHahw?si=RkQ4ShK8v_jBJAtF"
         liveUrl="https://lanzarotcg.alwaysdata.net/"
+      />
+
+      <ProjectCard
+        t={t}
+        title="Lanzahostel"
+        description={t.lanzahostelDescription}
+        technologies={["HTML5", "CSS3", "Laravel", "PHP", "MySQL", "JavaScript"]}
+        imageSrc={lanzahostelImage}
+        imageAlt={t.lanzahostelImage}
+        githubUrl="https://github.com/tomasvillani/lanzahostel"
+        youtubeUrl="https://youtu.be/dymaiI7xIOE?si=Be5TEkWCZUylwPHt"
+        liveUrl="https://lanzahostel.alwaysdata.net/"
       />
     </section>
   );
