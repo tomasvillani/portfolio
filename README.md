@@ -27,6 +27,12 @@ El proyecto está dividido por componentes (`About`, `Projects`, `Footer`, etc.)
 📹 [Ver vídeo en YouTube](https://youtu.be/0v9KCnHHahw?si=mL9kD8mn_rxj-JLi)  
 💻 [Ver en GitHub](https://github.com/tomasvillani/lanzarotcg)
 
+**Lanzahostel**: Plataforma web que conecta a empresas y candidatos del sector hostelero en Lanzarote, facilitando la publicación y búsqueda de ofertas de empleo de manera eficiente y accesible, desarrollada con Laravel, MySQL y JavaScript.
+
+➡️ [Ver en producción](https://lanzahostel.alwaysdata.net/)  
+📹 [Ver vídeo en YouTube](https://youtu.be/dymaiI7xIOE?si=aBYuBR9ucHkRXf1y)  
+💻 [Ver en GitHub](https://github.com/tomasvillani/lanzahostel)
+
 ## 🌐 Puedes ver este portfolio en línea
 
 👉 [Haz clic aquí para verlo online](https://portfolio-chi-nine-14.vercel.app/)  
