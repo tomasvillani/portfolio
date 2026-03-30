@@ -1,6 +1,6 @@
 # Portfolio de Tomás
 
-Este es mi portfolio personal como desarrollador web. Aquí muestro información sobre mí, mis habilidades técnicas y un proyecto destacado: **Gym Tinajo**.
+Este es mi portfolio personal como desarrollador web. Aquí muestro información sobre mí, mis habilidades técnicas y varios proyectos en los que he trabajado.
 
 ## 🚀 Tecnologías utilizadas
 
@@ -13,13 +13,25 @@ Este es mi portfolio personal como desarrollador web. Aquí muestro información
 
 El proyecto está dividido por componentes (`About`, `Projects`, `Footer`, etc.), usando React con estilos personalizados para asegurar un diseño responsive y limpio.
 
-## 📸 Proyecto Destacado
+## 📸 Proyectos Desarrollados
 
 **Gym Tinajo**: Plataforma web de reservas para un gimnasio, desarrollada con Laravel, MySQL y JavaScript (incluyendo un chatbot).
 
-➡️ [Ver en producción](https://gymtinajo.up.railway.app/)  
+➡️ [Ver en producción](https://gymtinajo.alwaysdata.net/)  
 📹 [Ver vídeo en YouTube](https://www.youtube.com/watch?v=3fXf20tTvhI)  
 💻 [Ver en GitHub](https://github.com/tomasvillani/Proyecto-final-DAW)
+
+**LanzaroTCG**: Plataforma web que facilita el intercambio seguro y sencillo de cartas coleccionables de TCG para la comunidad de Lanzarote, desarrollada con Laravel, MySQL y JavaScript.
+
+➡️ [Ver en producción](https://lanzarotcg.alwaysdata.net/)  
+📹 [Ver vídeo en YouTube](https://youtu.be/0v9KCnHHahw?si=mL9kD8mn_rxj-JLi)  
+💻 [Ver en GitHub](https://github.com/tomasvillani/lanzarotcg)
+
+**Lanzahostel**: Plataforma web que conecta a empresas y candidatos del sector hostelero en Lanzarote, facilitando la publicación y búsqueda de ofertas de empleo de manera eficiente y accesible, desarrollada con Laravel, MySQL y JavaScript.
+
+➡️ [Ver en producción](https://lanzahostel.alwaysdata.net/)  
+📹 [Ver vídeo en YouTube](https://youtu.be/dymaiI7xIOE?si=aBYuBR9ucHkRXf1y)  
+💻 [Ver en GitHub](https://github.com/tomasvillani/lanzahostel)
 
 ## 🌐 Puedes ver este portfolio en línea
 
