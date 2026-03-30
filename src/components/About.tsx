@@ -11,6 +11,7 @@ import nodeLogo from '../img/nodejs.png';
 import pythonLogo from '../img/python.png';
 import laravelLogo from '../img/laravel.png';
 import mysqlLogo from '../img/mysql.png';
+import javaLogo from '../img/java.png';
 import type { Translations } from '../utils/translations';
 
 export function About({t}:{t: Translations}) {
@@ -38,6 +39,7 @@ export function About({t}:{t: Translations}) {
         <div><img src={pythonLogo} alt="Python" /><span>Python</span></div>
         <div><img src={laravelLogo} alt="Laravel" /><span>Laravel</span></div>
         <div><img src={mysqlLogo} alt="MySQL" /><span>MySQL</span></div>
+        <div><img src={javaLogo} alt="Java" /><span>Java</span></div>
       </div>
     </section>
   );
