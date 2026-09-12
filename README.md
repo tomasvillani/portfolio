@@ -35,7 +35,7 @@ El proyecto está dividido por componentes (`About`, `Projects`, `Footer`, etc.)
 
 **PLanzarote**: Plataforma web desarrollada con Laravel para crear, descubrir y participar en planes y actividades en Lanzarote.
 
-➡️ [Ver en producción](https://planzarote.alwaysdata.net/) 
+➡️ [Ver en producción](https://planzarote.alwaysdata.net/)  
 📹 [Ver vídeo en YouTube](https://youtu.be/EuI-VvmQIAs?si=XTplgOcCYHvyFtOj)  
 💻 [Ver en GitHub](https://github.com/tomasvillani/planzarote)
 
