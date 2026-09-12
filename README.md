@@ -33,6 +33,10 @@ El proyecto está dividido por componentes (`About`, `Projects`, `Footer`, etc.)
 📹 [Ver vídeo en YouTube](https://youtu.be/dymaiI7xIOE?si=aBYuBR9ucHkRXf1y)  
 💻 [Ver en GitHub](https://github.com/tomasvillani/lanzahostel)
 
+**PLanzarote**: Plataforma web desarrollada con Laravel para crear, descubrir y participar en planes y actividades en Lanzarote.
+
+💻 [Ver en GitHub](https://github.com/tomasvillani/planzarote)
+
 ## 🌐 Puedes ver este portfolio en línea
 
 👉 [Haz clic aquí para verlo online](https://portfolio-chi-nine-14.vercel.app/)  
