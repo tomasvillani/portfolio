@@ -2,6 +2,8 @@ import './styles/Projects.css';
 import gymTinajoImage from '../img/gymtinajo.png';
 import lanzaroTCGImage from '../img/lanzarotcg.png';
 import lanzahostelImage from '../img/lanzahostel.png';
+import planzaroteImage from '../img/planzarote.png';
+
 import type { Translations } from '../utils/translations';
 import { ProjectCard } from './ProjectCard';
 
@@ -44,6 +46,16 @@ export function Projects({t}: {t: Translations}) {
         githubUrl="https://github.com/tomasvillani/lanzahostel"
         youtubeUrl="https://youtu.be/dymaiI7xIOE?si=Be5TEkWCZUylwPHt"
         liveUrl="https://lanzahostel.alwaysdata.net/"
+      />
+
+      <ProjectCard
+        t={t}
+        title="PLanzarote"
+        description={t.planzaroteDescription}
+        technologies={["HTML5", "CSS3", "Laravel", "PHP", "MySQL", "JavaScript"]}
+        imageSrc={planzaroteImage}
+        imageAlt={t.planzaroteImage}
+        githubUrl="https://github.com/tomasvillani/planzarote"
       />
     </section>
   );
