@@ -57,6 +57,7 @@ export function Projects({t}: {t: Translations}) {
         imageAlt={t.planzaroteImage}
         githubUrl="https://github.com/tomasvillani/planzarote"
         youtubeUrl="https://youtu.be/EuI-VvmQIAs?si=j_X0VAPsXDQnODFg"
+        liveUrl="https://planzarote.alwaysdata.net/"
       />
     </section>
   );
